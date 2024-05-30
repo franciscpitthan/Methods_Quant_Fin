@@ -8,7 +8,7 @@
 
   ## Table of content (under construction)
 
-* Random behaviour of assets & Exploratory data analysis
+* Randomness in finance & Exploratory data analysis
 * Binomial pricing model
 * Asset pricing & Portfolio management
 * Value at Risk & Volatility modelling
@@ -51,9 +51,9 @@ VanderPlas, J. (2023). *Python data science handbook: Essential tools for workin
 
 Wilmott, P. (2023). *Machine learning: an applied mathematics introduction.* Panda Ohana Publishing.
 
-Wilmott, P. (2013). *Paul Wilmott introduces quantitative finance.* John Wiley & Sons.
+Wilmott, P. (2013). *Paul Wilmott introduces quantitative finance (Second Edition).* John Wiley & Sons.
 
-Wilmott, P. (2006). *Paul Wilmott on quantitative finance.* John Wiley & Sons.
+Wilmott, P. (2006). *Paul Wilmott on quantitative finance (Second Edition).* John Wiley & Sons.
 
 Coursera (in special Andrew Ng's courses on Machine Learning and Deep Learning) 
 
