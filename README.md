@@ -12,7 +12,7 @@
 * Binomial pricing model
 * Asset pricing & Portfolio management
 * Value at Risk & Volatility modelling
-* Black scholes and option pricing
+* Black scholes & Option pricing
 * Supervised learning
 * Unsupervised learning
 * Gradient boosting & XGBoost
