@@ -53,7 +53,7 @@ Wilmott, P. (2023). *Machine learning: an applied mathematics introduction.* Pan
 
 Wilmott, P. (2013). *Paul Wilmott introduces quantitative finance.* John Wiley & Sons.
 
-Wilmott, P. (2006). *Paul Wilmott on quantitative finance.* John Wiley & Sons.
+Wilmott, P. (2006). *Paul Wilmott on quantitative finance (Second Edition).* John Wiley & Sons.
 
 Coursera (in special Andrew Ng's courses on Machine Learning and Deep Learning) 
 
