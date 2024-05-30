@@ -34,7 +34,7 @@
 * Time series econometrics
 * Credit risk and credit derivatives
 * Fixed income
-* DSGE & VAR models for Macroeconomic Time series
+* DSGE & VAR models for Macroeconomic time series
 
 
 ## Bibliography
