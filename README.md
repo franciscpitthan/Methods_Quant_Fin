@@ -1,6 +1,6 @@
 # Methods_Quant_Fin
  
-  Compilation of applied theory and methods used in quantitative finance, mostly using Python. By Francisco Pitthan.
+  Compilation of applied theory and methods used in quantitative finance, mostly with Python. By Francisco Pitthan.
 
   This is a repo for educational purposes, I plan to update it to cover materials about pricing, risk valuation, and forecasting. The topics are loosely inspired by Paul Wilmott's book *Quantitative Finance* and CQF's Program. It is suplemented by academic papers, topics covered in Yves Hilpisch's *Python for Finance* book, classes I followed at Coursera and DataCamp, and additional packages I've found useful.
 
