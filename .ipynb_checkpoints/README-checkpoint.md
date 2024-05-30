@@ -11,11 +11,11 @@
 * Random behaviour of assets & Exploratory data analysis
 * Binomial pricing model
 * Asset pricing & Portfolio management
-* Value at Risk & Shortfall
+* Value at Risk & Volatility modelling
 * Black scholes and option pricing
-* Volatility modelling
 * Supervised learning
 * Unsupervised learning
+* Gradient boosting & XGBoost
 
 
   ## Future updates
@@ -24,17 +24,17 @@
 * Taylor series & Transition Density Functions
 * Applied stochastic calculus
 * Martingales
-  Portfolio optimization
-* Risk regulation and Basel III
 * Factor analysis & Principal component analysis
+* Portfolio optimization
+* Risk regulation and Basel III
 * Deep learning & Reinforcement learning
 * Natural language processing & Sentiment analysis
-* Algorithmic trading
-* Gradient boosting & XGBoost
-* Time series econometrics
 * Causal machine learning
+* Algorithmic trading
+* Time series econometrics
 * Credit risk and credit derivatives
 * Fixed income
+* DSGE & VAR models for Macroeconomic Time series
 
 
 ## Bibliography
