@@ -11,7 +11,6 @@
 * Random behaviour of assets & Exploratory data analysis
 * Binomial pricing model
 * Asset pricing & Portfolio management
-
 * Value at Risk & Shortfall
 * Black scholes and option pricing
 * Volatility modelling
