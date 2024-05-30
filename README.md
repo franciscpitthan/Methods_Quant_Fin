@@ -39,7 +39,17 @@
 
 ## Bibliography
 
+Chan, E. (2013). *Algorithmic trading: winning strategies and their rationale.* John Wiley & Sons.
+
+Chan, E. P. (2021). *Quantitative trading: how to build your own algorithmic trading business (Second Edition).* John Wiley & Sons.
+
+Hastie, T., Tibshirani, R., Friedman, J. H., & Friedman, J. H. (2017). *The elements of statistical learning: data mining, inference, and prediction (Second Edition).* New York: springer.
+
 Hilpisch, Y. (2018). *Python for finance: mastering data-driven finance*. O'Reilly Media.
+
+VanderPlas, J. (2016). *Python data science handbook: Essential tools for working with data.* " O'Reilly Media, Inc.".
+
+Wilmott, P. (2023). *Machine learning: an applied mathematics introduction.* Panda Ohana Publishing.
 
 Wilmott, P. (2013). *Paul Wilmott introduces quantitative finance.* John Wiley & Sons.
 
