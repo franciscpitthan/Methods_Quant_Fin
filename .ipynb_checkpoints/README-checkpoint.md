@@ -4,7 +4,7 @@
 
   This is a repo for educational purposes, I plan to update it to cover materials about pricing, risk valuation, and forecasting. The topics are loosely inspired by Paul Wilmott's book *Quantitative Finance* and CQF's Program. It is suplemented by academic papers, topics covered in Yves Hilpisch's *Python for Finance* book, classes I followed at Coursera and DataCamp, and additional packages I've found useful.
 
-  If you found any typos and errors, or if you have any comments/suggestions, feel free to reach me (franciscopitthan at gmail.com).
+  If you found any typos/errors, or if you have any comments/suggestions, feel free to reach me (franciscopitthan at gmail.com).
 
   ## Table of content
 
@@ -40,10 +40,10 @@
 
 ## Bibliography
 
-    * Hilpisch, Y. (2018). *Python for finance: mastering data-driven finance*. O'Reilly Media.
-    * Wilmott, P. (2013). *Paul Wilmott on quantitative finance.* John Wiley & Sons.
-    * Coursera (in special Andrew Ng's courses on Machine Learning and Deep Learning) 
-    * DataCamp
+Hilpisch, Y. (2018). *Python for finance: mastering data-driven finance*. O'Reilly Media.
+Wilmott, P. (2013). *Paul Wilmott on quantitative finance.* John Wiley & Sons.
+Coursera (in special Andrew Ng's courses on Machine Learning and Deep Learning) 
+DataCamp
 
 
 
