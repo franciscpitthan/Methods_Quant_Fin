@@ -42,7 +42,7 @@
 
 Hilpisch, Y. (2018). *Python for finance: mastering data-driven finance*. O'Reilly Media.
 
-Wilmott, P. (2013). *Paul Wilmott on quantitative finance.* John Wiley & Sons.
+Wilmott, P. (2006). *Paul Wilmott on quantitative finance.* John Wiley & Sons.
 
 Coursera (in special Andrew Ng's courses on Machine Learning and Deep Learning) 
 
