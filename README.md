@@ -6,7 +6,7 @@
 
   If you found any typos/errors, or if you have any comments/suggestions, feel free to reach me (franciscopitthan at gmail.com).
 
-  ## Table of content
+  ## Table of content (under construction)
 
 * Random behaviour of assets & Exploratory data analysis
 * Binomial pricing model
