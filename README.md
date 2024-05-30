@@ -8,7 +8,7 @@
 
   ## Table of content (under construction)
 
-* Random behaviour of assets & Exploratory data analysis
+* Randomness in finance & Exploratory data analysis
 * Binomial pricing model
 * Asset pricing & Portfolio management
 * Value at Risk & Volatility modelling
