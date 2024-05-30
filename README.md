@@ -41,7 +41,7 @@
 
 Hilpisch, Y. (2018). *Python for finance: mastering data-driven finance*. O'Reilly Media.
 
-Wilmott, P. (2013). Paul Wilmott introduces quantitative finance. John Wiley & Sons.
+Wilmott, P. (2013). *Paul Wilmott introduces quantitative finance.* John Wiley & Sons.
 
 Wilmott, P. (2006). *Paul Wilmott on quantitative finance.* John Wiley & Sons.
 
