@@ -2,7 +2,7 @@
  
   Compilation of applied theory and methods used in quantitative finance, mostly with Python. By Francisco Pitthan.
 
-  This is a repo for educational purposes, I plan to update it to cover materials about pricing, risk valuation, and forecasting. The topics are loosely inspired by Paul Wilmott's book *Quantitative Finance* and CQF's Program. It is suplemented by academic papers, topics covered in Yves Hilpisch's *Python for Finance* book, classes I followed at Coursera and DataCamp, and additional packages I've found useful.
+  This is a repo for educational purposes, I plan to update it to cover materials about pricing, risk valuation, and forecasting. The topics are loosely inspired by Paul Wilmott's book *on Quantitative Finance* (together with his 'baby brother' *introduces Quantitative Finance') and CQF's Program. It is suplemented by academic papers, topics covered in Yves Hilpisch's *Python for Finance* book, classes I followed at Coursera and DataCamp, and additional packages I've found useful.
 
   If you found any typos/errors, or if you have any comments/suggestions, feel free to reach me (franciscopitthan at gmail.com).
 
@@ -40,6 +40,8 @@
 ## Bibliography
 
 Hilpisch, Y. (2018). *Python for finance: mastering data-driven finance*. O'Reilly Media.
+
+Wilmott, P. (2013). Paul Wilmott introduces quantitative finance. John Wiley & Sons.
 
 Wilmott, P. (2006). *Paul Wilmott on quantitative finance.* John Wiley & Sons.
 
