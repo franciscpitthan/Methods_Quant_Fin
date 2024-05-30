@@ -21,7 +21,7 @@
   ## Future updates
 
 * Partial differential equations
-* Taylor series & Transition Density Functions
+* Taylor series & Transition density functions
 * Applied stochastic calculus
 * Martingales
 * Factor analysis & Principal component analysis
