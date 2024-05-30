@@ -51,7 +51,7 @@ VanderPlas, J. (2023). *Python data science handbook: Essential tools for workin
 
 Wilmott, P. (2023). *Machine learning: an applied mathematics introduction.* Panda Ohana Publishing.
 
-Wilmott, P. (2013). *Paul Wilmott introduces quantitative finance.* John Wiley & Sons.
+Wilmott, P. (2013). *Paul Wilmott introduces quantitative finance (Second Edition).* John Wiley & Sons.
 
 Wilmott, P. (2006). *Paul Wilmott on quantitative finance (Second Edition).* John Wiley & Sons.
 
