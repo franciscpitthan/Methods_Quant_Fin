@@ -49,7 +49,7 @@ Hilpisch, Y. (2018). *Python for finance: mastering data-driven finance*. O'Reil
 
 VanderPlas, J. (2023). *Python data science handbook: Essential tools for working with data (Second Edition).* O'Reilly Media, Inc.
 
-Wilmott, P. (2023). *Machine learning: an applied mathematics introduction.* Panda Ohana Publishing.
+Wilmott, P. (2019). *Machine learning: an applied mathematics introduction.* Panda Ohana Publishing.
 
 Wilmott, P. (2013). *Paul Wilmott introduces quantitative finance (Second Edition).* John Wiley & Sons.
 
