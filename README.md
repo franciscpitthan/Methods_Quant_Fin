@@ -6,7 +6,7 @@
 
   If you found any typos/errors, or if you have any comments/suggestions, feel free to reach me (franciscopitthan at gmail.com).
 
-  ## Table of content (under construction)
+  ## Table of content (work in progress)
 
 * Randomness in finance & Exploratory data analysis
 * Binomial pricing model
@@ -16,7 +16,10 @@
 * Supervised learning
 * Unsupervised learning
 * Gradient boosting & XGBoost
-
+* Liquidity asset liability management
+* Risk regulation & Basel III
+* Credit risk & credit derivatives
+* Risk of default models
 
   ## Future updates
 
@@ -26,13 +29,11 @@
 * Martingales
 * Factor analysis & Principal component analysis
 * Portfolio optimization
-* Risk regulation and Basel III
 * Deep learning & Reinforcement learning
 * Natural language processing & Sentiment analysis
 * Causal machine learning
 * Algorithmic trading
 * Time series econometrics
-* Credit risk and credit derivatives
 * Fixed income
 * DSGE & VAR models for Macroeconomic time series
 
