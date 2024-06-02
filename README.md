@@ -6,22 +6,23 @@
 
   If you found any typos/errors, or if you have any comments/suggestions, feel free to reach me (franciscopitthan at gmail.com).
 
-  ## Table of content (work in progress)
+  ## Table of content (work in progress - planned updates)
 
-* Randomness in finance & Exploratory data analysis
+* Randomness in finance 
 * Binomial pricing model
-* Asset pricing & Portfolio management
-* Value at Risk & Volatility modelling
-* Black scholes & Option pricing
-* Supervised learning
-* Unsupervised learning
-* Gradient boosting & XGBoost
-* Liquidity asset liability management
-* Risk regulation & Basel III
-* Credit risk & credit derivatives
-* Risk of default models
+* Exploratory data analysis - (for July 20th)
+* Asset pricing & Portfolio management - (for August 23rd)
+* Value at Risk & Volatility modelling - (for June 31st)
+* Black scholes & Option pricing - (for July 13th)
+* Supervised learning - (for July 20th)
+* Unsupervised learning - (for September 17th)
+* Gradient boosting & XGBoost - (for August 15th)
+* Liquidity asset liability management - (for July 5th)
+* Risk regulation & Basel III - (for July 5th)
+* Credit risk & credit derivatives - (for September 10th)
+* Risk of default models - (for July 20th)
 
-  ## Future updates
+  ## Future updates (TBD)
 
 * Partial differential equations
 * Taylor series & Transition density functions
