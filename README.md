@@ -8,8 +8,9 @@
 
   ## Table of content (work in progress)
 
-* Randomness in finance & Exploratory data analysis - (Exploratory analysis for July 20th)
+* Randomness in finance 
 * Binomial pricing model
+* Exploratory data analysis - (for July 20th)
 * Asset pricing & Portfolio management - (for August 23rd)
 * Value at Risk & Volatility modelling - (for June 31st)
 * Black scholes & Option pricing - (for July 13th)
