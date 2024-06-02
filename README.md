@@ -18,7 +18,7 @@
 * Unsupervised learning - (for September 17th)
 * Gradient boosting & XGBoost - (for August 15th)
 * Liquidity asset liability management - (for July 5th)
-* Risk regulation & Basel III - (for August 5th)
+* Risk regulation & Basel III - (for July 5th)
 * Credit risk & credit derivatives - (for September 10th)
 * Risk of default models - (for July 20th)
 
