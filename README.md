@@ -6,7 +6,7 @@
 
   If you found any typos/errors, or if you have any comments/suggestions, feel free to reach me (franciscopitthan at gmail.com).
 
-  ## Table of content (work in progress)
+  ## Table of content (work in progress - planned updates)
 
 * Randomness in finance 
 * Binomial pricing model
