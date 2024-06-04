@@ -4,6 +4,8 @@
 
   This is a repo for educational purposes, I plan to update it to cover materials about pricing, risk valuation, and forecasting. The topics are loosely inspired by Paul Wilmott's book *on Quantitative Finance* (together with his 'baby brother' *introduces Quantitative Finance*) and CQF's Program. It is suplemented by academic papers, topics covered in Yves Hilpisch's *Python for Finance* book, classes I followed at Coursera and DataCamp, and additional packages I've found useful.
 
+  I also plan to include examples of applications using open sourced data. For the moment, I am working with credit card data to predict default probability using data available at Kaggle. Future updates will be based on fraud analysis, ETFs, and options.
+
   If you found any typos/errors, or if you have any comments/suggestions, feel free to reach me (franciscopitthan at gmail.com).
 
   ## Table of content (work in progress - planned updates)
@@ -21,6 +23,13 @@
 * Risk regulation & Basel III - (for July 5th)
 * Credit risk & credit derivatives - (for September 10th)
 * Risk of default models - (for July 20th)
+
+  ## Projects (work in progress - planned updates)
+
+* Credit card default prediction
+* Fraud detection - (for July 19h)
+* ETFs trend analysis - (for August 23rd)
+* Option pricing - (for September 13th)
 
   ## Future updates (TBD)
 
