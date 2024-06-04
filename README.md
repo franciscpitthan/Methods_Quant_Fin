@@ -58,6 +58,8 @@ Hastie, T., Tibshirani, R., Friedman, J. H., & Friedman, J. H. (2017). *The elem
 
 Hilpisch, Y. (2018). *Python for finance: mastering data-driven finance*. O'Reilly Media.
 
+Shmatov, C., & Castelli, C. R. (2022). *Quantitative methods for ESG finance*. John Wiley & Sons.
+
 VanderPlas, J. (2023). *Python data science handbook: Essential tools for working with data (Second Edition).* O'Reilly Media, Inc.
 
 Wilmott, P. (2019). *Machine learning: an applied mathematics introduction.* Panda Ohana Publishing.
