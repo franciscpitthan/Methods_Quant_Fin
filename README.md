@@ -27,7 +27,7 @@
   ## Projects (work in progress - planned updates)
 
 * Credit card default prediction
-* Fraud detection - (for July 19h)
+* Fraud detection - (for July 19th)
 * ETFs trend analysis - (for August 23rd)
 * Option pricing - (for September 13th)
 
