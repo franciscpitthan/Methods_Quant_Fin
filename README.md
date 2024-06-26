@@ -28,6 +28,7 @@
 
 * Credit card default prediction
 * Fraud detection - (for July 19th)
+* Volatility analysis with GARCH - (for August 15th)
 * ETFs trend analysis - (for August 23rd)
 * Option pricing - (for September 13th)
 
