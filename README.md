@@ -4,7 +4,7 @@
 
   This is a repo for educational purposes, I plan to update it to cover materials about pricing, risk valuation, and forecasting. The topics are loosely inspired by Paul Wilmott's book *on Quantitative Finance* (together with his 'baby brother' *introduces Quantitative Finance*) and CQF's Program. It is suplemented by academic papers, topics covered in Yves Hilpisch's *Python for Finance* book, classes I followed at Coursera and DataCamp, and additional packages I've found useful.
 
-  I also plan to include examples of applications using open sourced data. For the moment, I am working with credit card data to predict default probability using data available at Kaggle. Future updates will be based on fraud analysis, ETFs, and options.
+  I also plan to include examples of applications using open sourced data. **UPDATE:** I am currently working on an appendix of pandas & numpy for data wrangling, this will be included shortly (TBD).  Future updates will also be based on exploratory data analysis and the integration with BI softwares. Moreover, through the use of Kaggle databases, I plan to cover other topics in risk modeling, management, and prediction.
 
   If you found any typos/errors, or if you have any comments/suggestions, feel free to reach me (franciscopitthan at gmail.com).
 
@@ -15,19 +15,17 @@
 * Exploratory data analysis - (for July 20th)
 * Asset pricing & Portfolio management - (for August 23rd)
 * Value at Risk & Volatility modelling - (for June 31st)
-* Black scholes & Option pricing - (for July 13th)
-* Supervised learning - (for July 20th)
+* Supervised learning - (for August 15th)
 * Unsupervised learning - (for September 17th)
 * Gradient boosting & XGBoost - (for August 15th)
-* Liquidity asset liability management - (for July 5th)
-* Risk regulation & Basel III - (for July 5th)
+* Risk regulation & Basel III - (for August th)
 * Credit risk & credit derivatives - (for September 10th)
 * Risk of default models - (for July 20th)
 
   ## Projects (work in progress - planned updates)
 
 * Credit card default prediction
-* Fraud detection - (for July 19th)
+* Fraud detection
 * Volatility analysis with GARCH - (for August 15th)
 * ETFs trend analysis - (for August 23rd)
 * Option pricing - (for September 13th)
@@ -47,6 +45,8 @@
 * Time series econometrics
 * Fixed income
 * DSGE & VAR models for Macroeconomic time series
+* Liquidity asset liability management
+* Black scholes & Option pricing
 
 
 ## Bibliography
